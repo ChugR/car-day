@@ -27,6 +27,8 @@ Not pictured with group
 
 ![The lineup](photos/cars02.jpg "The lineup")
 
+The lineup
+
 ![1950 Ford] (photos/cars04.jpg "1950 Ford")
 
 ![1948 Chevy] (photos/cars04_0001.jpg "1948 Chevy front end detail")
