@@ -25,43 +25,41 @@ Not pictured with group
 
 ## The photos
 
+### The lineup
+
 ![The lineup](photos/cars02.jpg "The lineup")
 
-The lineup
+### 1950 Ford, 1948 Chevy
 
 ![1950 Ford](photos/cars04.jpg "1950 Ford")
 
-1950 Ford, 1948 Chevy
+### 1948 Chevy front end detail
 
 ![1948 Chevy](photos/cars04_0001.jpg "1948 Chevy front end detail")
 
-1948 Chevy front end detail
+### Aerial views
 
 ![Aerial view](photos/cars06.jpg "Aerial view")
 
-Aerial view
-
 ![Aerial view 2](photos/cars07.jpg "Aerial view 2")
 
-Another aerial view
+### 1961 VW Beetle
 
 ![1961 VW](photos/cars08-61-vw-field-car.jpg "1961 VW")
 
-1961 VW Beetle
+### 1958 Renault Dauphine, 1961 VW Beetle
 
 ![1958 Renault Dauphine, 1961 VW](photos/cars09-58-renault-dauphine_61-vw.jpg "Renault Dauphine and VW")
 
-1958 Renault Dauphine, 1961 VW Beetle
+### NSA Motorcycle
 
 ![NSA Motorcycle](photos/cars10-nsa-motorcycle.jpg "NSU (NSA?) Motorcycle")
 
-NSA Motorcycle
+### 1948 Plymouth as a ski tow powerplant
 
 ![1948 Plymouth](photos/cars13-48-plymouth-ski-tow.jpg "1948 Plymouth")
 
-1947 Plymouth sedan repurposed as a ski tow powerplant
-
-### Bonus time
+### Bonus time = unannounced mninibike!
 
 ![Photo shoot with a minibike](photos/cars03-minibike.jpg "Photo shoot with a minibike")
 
