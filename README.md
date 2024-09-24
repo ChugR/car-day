@@ -1,7 +1,7 @@
 # car-day
 Car day at the farm, Little Gap, PA, in March, 1972
 
-One day we decided to drag all the cars and stuff out of their respective barns and get a good look at them all. We were trying to get rid of some of the worst clunkers to make in-barn parking space for other cars for parking or repairs.
+One day we decided to drag all the cars and stuff out of their respective barns and get a good look at them all. We were trying to get rid of some of the worst clunkers to make in-barn space for parking or repairs.
 
 ## The cars (and stuff)
 
@@ -11,17 +11,18 @@ Left-to-right:
 * 1948 Chevrolet
 * 1961 VW Beetle
 * 1958 Renault Dauphine
-* 19xx NSU(?) Motorcycle
+* 19xx NSA(?) Motorcycle
 * 1960 Saab 96 (wreck)
 * 1960 Saab 96 (parts)
 * 1965 Saab 96
-* 196x Alfa Romeo Giuletta Sprint 1300
+* 196x Alfa Romeo Giulietta Sprint 1300
 * 196x Ford 2000 tractor
 
 Not pictured with group
 
 * 1940x Oliver Cletrac HG Crawler tractor
 * 1948 Plymouth sedan (rope tow ski lift powerplant)
+* Some other Saab 96s
 
 ## The photos
 
@@ -63,14 +64,14 @@ Not pictured with group
 
 ![Photo shoot with a minibike](photos/cars03-minibike.jpg "Photo shoot with a minibike")
 
-While photographing the cars these two guys blew through on a minibike. Ahhh, life in rural eastern Pennsylvania!
+While photographing the cars these two teens blew through on a minibike. Ahhh, life in rural eastern Pennsylvania!
 
 ## About the cars
 
 ### 1950 Ford Fordor(?)
 
 * My dad bought it new
-* Second gear got damaged and it ran rough. We took the transmission apart and ground all the teeth off of second gear so that the car was a two-speed with only first and third gears moving the car.
+* Second gear eventually got damaged and it sounded really bad. We fixed it by grinding the teeth off of the failed gear so that the car was a two-speed with only first and third gears moving the car.
 
 ### 1948 Chevrolet
 
@@ -82,8 +83,8 @@ While photographing the cars these two guys blew through on a minibike. Ahhh, li
 
 * Profound rust took the car off the road
 * Converted to field buggy by cutting at top of windshield and heaving the rust-detached body aside
-* While cutting the driver's side door pillar the hacksaw got unreasonably hot. Oh yeah, I'm cutting through the battery cable!
-* It was a riot to drive this up and down the hills, especially if you like goldenrod in the face.
+* While cutting the driver's side A-pillar the hacksaw got unreasonably hot. Oh yeah, I'm cutting through the battery cable!
+* It was a riot to drive this up and down the hills, especially if you like goldenrod and bees in the face.
 * Hacked-off A-pillars were really dangerous. Styrofoam covers fixed that.
 
 ### 1958 Renault Dauphine
@@ -108,9 +109,9 @@ While photographing the cars these two guys blew through on a minibike. Ahhh, li
 
 ### 1965 Saab 96
 
-* Registered, on the road, tires, brakes, and everything
+* Registered, tires, brakes, and everything including an inspection sticker
 
-### 196x Alfa Romeo
+### 196x Alfa Romeo Giulietta Sprint 1300
 
 * Some college buddy stashed it
 * It had storm damage where snow from a barn roof fell and crushed the hood and front end. Ugh.
@@ -118,7 +119,7 @@ While photographing the cars these two guys blew through on a minibike. Ahhh, li
 ### 196x  Ford 2000 tractor
 
 * Belonged to a neighbor
-* Allegedly was part of mowing equipment on the New Jersey Turnpike
+* Allegedly used to be mowing equipment on the New Jersey Turnpike
 
 ### 1940x Oliver Cletrac HG Crawler tractor
 
@@ -127,7 +128,7 @@ While photographing the cars these two guys blew through on a minibike. Ahhh, li
 * Herculese marine engine with updraft carburetor was a bitch to start
 * Starting with hand crank was dangerous
 * Often jumped the 6v system with 12v to get it going
-* It used to blow red-hot chunks of carbon out the exhaust to land on the operator and burn skin and holes in clothes, etc.
+* It used to blow red-hot chunks of carbon out the exhaust. They landed on the operator to burn skin, holes in clothes, etc.
 
 ### 1948 Plymouth sedan (rope tow ski lift powerplant)
 
@@ -136,6 +137,4 @@ While photographing the cars these two guys blew through on a minibike. Ahhh, li
 * Drive a 1-inch manila rope for the ski tow off the passenger side
 * Square nail holds throttle at adjustable setting for lift speed
 * Totally safe! What could possiby go wrong?
-
-
 
