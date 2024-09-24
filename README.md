@@ -138,3 +138,8 @@ While photographing the cars these two teens blew through on a minibike. Ahhh, l
 * Square nail holds throttle at adjustable setting for lift speed
 * Totally safe! What could possiby go wrong?
 
+### Some other Saab 96s
+
+![saabs](photos/DSCF-saabs.gif "Saabs")
+
+A photo from a different day. Locals like to play games and did pranks like this. When you visited the farm you never knew for sure what you'd find. Once I found more Saabs there than I had when last I left. Imagine that.
