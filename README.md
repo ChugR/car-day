@@ -53,9 +53,9 @@ Another aerial view
 
 1958 Renault Dauphine, 1961 VW Beetle
 
-![NSU Motorcycle](photos/cars19-nsu-motorcycle.jpg "NSU Motorcycle")
+![NSA Motorcycle](photos/cars10-nsa-motorcycle.jpg "NSU (NSA?) Motorcycle")
 
-NSU Motorcycle
+NSA Motorcycle
 
 ![1948 Plymouth](photos/cars13-48-plymouth-ski-tow.jpg "1948 Plymouth")
 
