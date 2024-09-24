@@ -86,6 +86,7 @@ While photographing the cars these two guys blew through on a minibike. Ahhh, li
 * Converted to field buggy by cutting at top of windshield and heaving the rust-detached body aside
 * While cutting the driver's side door pillar the hacksaw got unreasonably hot. Oh yeah, I'm cutting through the battery cable!
 * It was a riot to drive this up and down the hills, especially if you like goldenrod in the face.
+* Hacked-off A-pillars were really dangerous. Styrofoam covers fixed that.
 
 ### 1958 Renault Dauphine
 
