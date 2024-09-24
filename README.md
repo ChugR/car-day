@@ -59,7 +59,7 @@ Not pictured with group
 
 ![1948 Plymouth](photos/cars13-48-plymouth-ski-tow.jpg "1948 Plymouth")
 
-### Bonus time = unannounced mninibike!
+### Bonus time - unannounced minibike!
 
 ![Photo shoot with a minibike](photos/cars03-minibike.jpg "Photo shoot with a minibike")
 
