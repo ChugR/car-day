@@ -29,25 +29,41 @@ Not pictured with group
 
 The lineup
 
-![1950 Ford] (photos/cars04.jpg "1950 Ford")
+![1950 Ford](photos/cars04.jpg "1950 Ford")
 
-![1948 Chevy] (photos/cars04_0001.jpg "1948 Chevy front end detail")
+1950 Ford, 1948 Chevy
 
-![Aerial view] (photos/cars06.jpg "Aerial view")
+![1948 Chevy](photos/cars04_0001.jpg "1948 Chevy front end detail")
 
-![Aerial view 2] (photos/cars07.jpg "Aerial view 2")
+1948 Chevy front end detail
 
-![1961 VW] (photos/cars08-61-vw-field-car.jpg "1961 VW")
+![Aerial view](photos/cars06.jpg "Aerial view")
 
-![1958 Renault Dauphine, 1961 VW] (photos/cars09-58-renault-dauphine_61-vw.jpg "Renault Dauphine and VW")
+Aerial view
 
-![NSU Motorcycle] (photos/cars19-nsu-motorcycle.jpg "NSU Motorcycle")
+![Aerial view 2](photos/cars07.jpg "Aerial view 2")
 
-![1948 Plymouth] (photos/cars13-48-plymouth-ski-tow.jpg "1948 Plymouth")
+Another aerial view
+
+![1961 VW](photos/cars08-61-vw-field-car.jpg "1961 VW")
+
+1961 VW Beetle
+
+![1958 Renault Dauphine, 1961 VW](photos/cars09-58-renault-dauphine_61-vw.jpg "Renault Dauphine and VW")
+
+1958 Renault Dauphine, 1961 VW Beetle
+
+![NSU Motorcycle](photos/cars19-nsu-motorcycle.jpg "NSU Motorcycle")
+
+NSU Motorcycle
+
+![1948 Plymouth](photos/cars13-48-plymouth-ski-tow.jpg "1948 Plymouth")
+
+1947 Plymouth sedan repurposed as a ski tow powerplant
 
 ### Bonus time
 
-![Photo shoot with a minibike] (photos/cars03-minibike.jpg "Photo shoot with a minibike")
+![Photo shoot with a minibike](photos/cars03-minibike.jpg "Photo shoot with a minibike")
 
 While photographing the cars these two guys blew through on a minibike. Ahhh, life in rural eastern Pennsylvania!
 
